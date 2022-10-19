@@ -1,4 +1,5 @@
-/* == manipulation - create == 
+/* == manipulation - create == */
+/*
 - CREATE statements allow us to create a new table in the db 
 CREATE TABLE 
 - is a clause that tells SQL you want to create a new table

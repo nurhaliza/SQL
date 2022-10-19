@@ -1,4 +1,5 @@
-/* == manipulation - statements == 
+/* == manipulation - statements == */
+/*
 - statement = text that the db recognizes as a valid command 
 CREATE TABLE = clause
 - clauses (commands) = perform specific tasks in SQL 

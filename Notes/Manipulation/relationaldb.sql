@@ -1,4 +1,5 @@
-/* == manipulation - relational db == 
+/* == manipulation - relational db == */
+/*
 return info from rel db
 - rel db = db that organizes info into 1+ tables
 - table (relation) = collection of data organized into rows + columns 
